@@ -5,7 +5,7 @@ Forum Discussion: HW2 (please use the forum for questions).
 
 Classes structure: 
 
-You need to implement three different classes:
+You need to implement five different classes:
 
 Customer:  this class will represent the coming customers:
 Your class should assign a unique id to each customer object. The value of the Id should be incremented by one when you instantiate an object of the class;
