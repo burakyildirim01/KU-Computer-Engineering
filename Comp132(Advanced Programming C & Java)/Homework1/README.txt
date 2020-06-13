@@ -1,3 +1,4 @@
+Instructions for Homework1
 Supermarket Simulation
 IMPORTANT – This is an individual programming assignment. All work should belong to you. For any question regarding to the HW1, you should use HW1 discussion forum and post your questions there.
 Your source code should include a signed disclaimer that states the work is your own.
